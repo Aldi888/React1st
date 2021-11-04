@@ -1,4 +1,6 @@
 import ToDo from "./components/Todo";
+import Modal from "./components/Modal";
+import Backdrop from "./components/Backdrop";
 import logo from "./logo.svg";
 
 function App() {
