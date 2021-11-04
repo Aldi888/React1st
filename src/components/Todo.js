@@ -1,9 +1,9 @@
 function ToDo() {
     return (
       <div className="card">
-        <h2>BEBE</h2>
+        <h2>FEITO NA UNHA</h2>
         <div className="actions">
-        <span> Confirme </span>
+        <span> REACTJS </span>
           <button className="btn">Delete</button>
         </div>
       </div>
