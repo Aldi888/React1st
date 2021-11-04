@@ -10,6 +10,7 @@ function App() {
       <ToDo />
       <ToDo />
       <ToDo />
+      <ToDo />
     </div>
   );
 }
