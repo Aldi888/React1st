@@ -1,10 +1,10 @@
-function ToDo() {
+function ToDo(props) {
     return (
       <div className="card">
-        <h2>FEITO NA UNHA</h2>
+        <h2>{props.text}</h2>
         <div className="actions">
         <span> REACTJS </span>
-          <button className="btn">Delete</button>
+          <button className="btn">Me Contrate pls</button>
         </div>
       </div>
     );

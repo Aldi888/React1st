@@ -7,10 +7,10 @@ function App() {
       <div>
         <h1>Modal Template ToDo</h1>
       </div>
-      <ToDo />
-      <ToDo />
-      <ToDo />
-      <ToDo />
+      <ToDo text='FEITO NA UNHA'/>
+      <ToDo text='COM REACTJS'/>
+      <ToDo text='PORTFOLIO'/>
+      <ToDo text='DEVOPS'/>
     </div>
   );
 }
