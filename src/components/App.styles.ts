@@ -27,7 +27,7 @@ export const Blocklist = styled.div`
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
-    padding: 8px 16px;
+    padding: 28px 38px 38px 38px;
 font-size: 15px;
 border-radius: 10px;
 margin: 0 20px;
