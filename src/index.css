@@ -11,6 +11,11 @@ body {
 h1, h2 {
   color: #a39e9e;
 }
+p {
+  font-family: sans-serif;
+  margin: 3rem;
+  font-color: #000;
+}
 
 .btn {
   font: inherit;
